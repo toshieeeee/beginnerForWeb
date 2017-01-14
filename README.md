@@ -10,18 +10,6 @@
   <title>Document</title>
 </head>
 <body>
-
-  <h1>キクチです</h1>
-
-  <p>エンジニアをやっています。</p>
-
-  <p>趣味はサバイバルです</p>
-
-  <button class="button">2017年の運勢を占う</button>
-
-  <p class="result"></p>
-
-  <div><img src="yuusha.gif" class="image"></div>
   
 </body>
 </html>
